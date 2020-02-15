@@ -1,0 +1,13 @@
+-open cmd from working folder.
+-type python
+-
+=> Arithmatic operator 
++ ------------- Addition
+- ------------- Substraction
+* ------------- Multification
+/ ------------- division
+% ------------- modulas
+** ------------ expanent
+-for using python with line number(infractive mode) use ipython
+- for installing python extentions use pip install package name
+
