@@ -1,0 +1,11 @@
+-open cmd from working folder.
+-type python
+-
+=> Arithmatic operator 
++ ------------- Addition
+- ------------- Substraction
+* ------------- Multification
+/ ------------- division
+% ------------- modulas
+** ------------ expanent
+ 
